@@ -12,7 +12,7 @@ html {
   overflow: hidden;
 }
 
-li {
+.links {
   float: left;
 }
 
