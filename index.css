@@ -34,3 +34,18 @@ li a:hover {
   display: block;
   margin: auto;
 }
+
+#first, #second, #third {
+  display: block;
+  border-radius: 15%;
+  background: #222222;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#tierList {
+  display: block;
+  border-radius: 20%;
+  background: #111111;
+  font-size: 15px;
+}

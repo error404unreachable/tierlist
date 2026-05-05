@@ -2,4 +2,7 @@
 
 console.log(window.innerWidth);
 
-document.addEventListener(onmouseover, document.getElementsByClassName("links").style.background = "#333333");
+links = document.getElementsByClassName("links");
+
+//links.addEventListener(onmouseover, links.style.background = "#333333");
+
