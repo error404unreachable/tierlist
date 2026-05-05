@@ -27,3 +27,10 @@ li a {
 li a:hover {
   background: #333333;
 }
+
+#space {
+  width: 100%;
+  height: 100px;
+  display: block;
+  margin: auto;
+}
